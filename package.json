@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "playwright": "^1.43.1"
+  },
+  "name": "playwrightdemo",
+  "description": "- 👋 Hi, I’m Mandar K - 👀 I’m interested in different automation testing tools - 🌱 I’m currently learning playwright with Javascript - 💞️ I’m looking to collaborate on ... - 📫 How to reach me : mandarkulkarni9431@gmail.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandar9431/Playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandar9431/Playwright/issues"
+  },
+  "homepage": "https://github.com/Mandar9431/Playwright#readme"
+}
